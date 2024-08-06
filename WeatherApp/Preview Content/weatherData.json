@@ -1,0 +1,45 @@
+{
+    "coord": {
+        "lon": 27.9001,
+        "lat": 43.2153
+    },
+    "weather": [
+        {
+            "id": 802,
+            "main": "Clouds",
+            "description": "scattered clouds",
+            "icon": "03d"
+        }
+    ],
+    "base": "stations",
+    "main": {
+        "temp": 27.14,
+        "feels_like": 27.19,
+        "temp_min": 25.86,
+        "temp_max": 27.14,
+        "pressure": 1011,
+        "humidity": 44,
+        "sea_level": 1011,
+        "grnd_level": 994
+    },
+    "visibility": 10000,
+    "wind": {
+        "speed": 7.2,
+        "deg": 120
+    },
+    "clouds": {
+        "all": 40
+    },
+    "dt": 1722863100,
+    "sys": {
+        "type": 1,
+        "id": 6367,
+        "country": "BG",
+        "sunrise": 1722826989,
+        "sunset": 1722878735
+    },
+    "timezone": 10800,
+    "id": 726048,
+    "name": "Varna",
+    "cod": 200
+}
